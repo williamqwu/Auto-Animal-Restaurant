@@ -6,7 +6,7 @@ A script that helps you with the game *Animal Restaurant*.
   - Enter **Developer Mode**
   - Connect the phone with the computer
   - Enter USB Debugging Mode
-  - Take `Mi 8` as an example, you need to click. Besides, 
+  - Take `Mi 8` as an example, you need to click the `MIUI version` for seven times to activate the Developer Mode. Besides, you need to turn on the USB Debugging Mode and the secure debugging mode as well.
 - python
 - pip
 - adb
@@ -20,6 +20,8 @@ A script that helps you with the game *Animal Restaurant*.
 - Platform: WeChat APP
 
 ## Obtain the coordinates
+
+For android devices, you can use the function *display phone coordinates* in Developer Mode to obtain the coordinates directly.
 
 ## Basic operations
 
