@@ -81,6 +81,18 @@ Load the operation from file.
 
 - sleep
 
+## Anti-detector
+
+- Random set of actions
+
+- Random delay after each operation
+
+- Random times of clicking
+
+- Random location of hit simulation
+
+*Looking forward to better solutions!*
+
 ## Credit
 
 [XYstudy](https://github.com/iTimeTraveler/XYStudy) / [code structure 1](https://github.com/colourfate/tap_recorder) / [code structure2](https://github.com/HoPGoldy/easy-animal-restaurant-py) / [opt 1](https://igor.mp/blog/2018/02/23/using-adb-simulate-touch-events.html) / [opt 2](https://zongren.me/2019/03/06/fast-click-android-simulate/#点击屏幕)
