@@ -10,8 +10,8 @@ class RestaurantControl:
         self.adb = AdbControl()
 
     def my_order(self):
-        for i in range(0, 5):
-            tmp = random.randint(1, 3)
+        for i in range(0, 3):
+            tmp = random.randint(1, 5)
             if tmp == 1:
                 self.my_service()
             elif tmp == 2:
